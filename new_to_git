@@ -1,3 +1,13 @@
+常用：
+git remote add pythonlearn.ipynb https://github.com/jgxs/pythonlearn
+git commit -m "message"
+git push -u pythonlearn.ipynb master
+
+git pull
+
+git merge
+
+基础知识
 git init 
 用 git init 在目录中创建新的 Git 仓库。 你可以在任何时候、任何目录中这么做，完全是本地化的。
 
