@@ -1,7 +1,9 @@
 常用：
-git remote add pythonlearn.ipynb https://github.com/jgxs/pythonlearn
-git commit -m "message"
-git push -u pythonlearn.ipynb master
+在github创建一个远程库后（必须在github添加）
+git remote add local_name https://github.com/username/repositoryname
+git add README.md 
+git commit -m "first_try"
+git push -u origin master
 
 git pull
 
