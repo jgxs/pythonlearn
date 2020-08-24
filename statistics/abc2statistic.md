@@ -1,8 +1,14 @@
-# basic
-    set = {x1, x2, x3, ... xn}   
-    x_mean = sum(set)/n   
-    x_variance = sum(xi-x_mean)**2/n  
+# basic #
+for *n* items set
+$$ { x_1, x_2, x_3, ... x_n } $$    
 
-    $a+b$
+mean:
+$$ \mu=x_{mean} = \frac {\sum_i^n x_i} {n}  $$
 
- 	$\alhpa$   
+variance:
+$$    \sigma^2=x_{variance} = \frac {\sum_i^n (x_i-x_{mean})^2}{n}  $$
+
+standard variance:
+$$ \sigma = \sqrt{\sigma^2} = \sqrt{\frac {\sum_i^n (x_i-x_{mean})^2}{n} } $$
+
+mean squared error:
