@@ -138,10 +138,10 @@ quad空格，符号：\quad，如：$x \quad y$
 
 $$\alpha$$ 
 希腊字母
-|letter  |input   |letter|input |letter  |input   |letter|input |
-|:---:   |:---:   |:---: |:---: |:---:   |:---:   |:---: |:---: |
-|$\Alpha$|$\alpha$|\alpha|$\Beta$ |\Beta |$\Gamma$|\Gamma|$\gamma$|\gamma|
-|$\Delta$|\Delta|$\delta$|\delta|$\epsilon$|\epsilon|$\Epsilon
+|  letter  |  input   |  letter  |  input  |   letter   |  input   |  letter   |  input   |
+| :------: | :------: | :------: | :-----: | :--------: | :------: | :-------: | :------: |
+| $\Alpha$ | $\alpha$ |  \alpha  | $\Beta$ |   \Beta    | $\Gamma$ |  \Gamma   | $\gamma$ | \gamma |
+| $\Delta$ |  \Delta  | $\delta$ | \delta  | $\epsilon$ | \epsilon | $\Epsilon |
 Z 	Z 	ζ 	\zeta
 H 	H 	η 	\eta
 Θ 	\Theta 	θ 	\theta
