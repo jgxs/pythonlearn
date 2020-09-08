@@ -70,5 +70,4 @@ $$R^2 = 1 - \frac{\sum\limits_i(y_i - f_i)^2 / n}{\sum\limits_i(y_i - \hat{y})^2
 对于Explained sum of squares
 $$\mathrm{ESS} = \sum\limits_i(f_i - \hat{y})^2$$
 
-$$R^2 = 1 - \frac{\mathrm{RSS}}{\mathrm{TSS}} = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{\sum\limits_i(f_i - \hat{y})^2}{\sum\limits_i(y_i - \hat{y})^2}$$
-
+$$R^2 = 1 - \frac{\mathrm{RSS}}{\mathrm{TSS}} = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{\sum\limits_i(f_i - \hat{y})^2}{\sum\limits_i(y_i - \hat{y})^2}$$  
