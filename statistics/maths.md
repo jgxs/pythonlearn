@@ -39,12 +39,12 @@ quad空格，符号：\quad，如：$x \quad y$
 自适应括号，符号：\left \right，如：$\left(x\right)$，$\left(x{yz}\right)$  
 组合公式，符号：{上位公式 \choose 下位公式}，如：${n+1 \choose k}={n \choose k}+{n \choose k-1}$  
 组合公式，符号：{上位公式 \atop 下位公式}，
-如：$\sum_{k_0,k_1,\ldots>0 \atop k_0+k_1+\cdots=n}A_{k_0}A_{k_1}\cdots$    
+如：$\sum_{k_0,k_1,\ldots>0 \atop k_0+k_1+\cdots=n}A_{k_0}A_{k_1}\cdots$  
 
 四则运算
 
 加法运算，符号：+，如：$x+y=z$  
-减法运算，符号：-，如：$x-y=z$   
+减法运算，符号：-，如：$x-y=z$  
 加减运算，符号：\pm，如：$x \pm y=z$  
 减甲运算，符号：\mp，如：$x \mp y=z$  
 乘法运算，符号：\times，如：$x \times y=z$  
@@ -105,7 +105,8 @@ quad空格，符号：\quad，如：$x \quad y$
 同与运算，符号：\bigotimes，如：$x \bigotimes y$  
 实数集合，符号：\mathbb{R}，如：\mathbb{R}  
 自然数集合，符号：\mathbb{Z}，如：\mathbb{Z}  
-空集，符号：\emptyset，如：$\emptyset$  
+空集，符号：\emptyset，如：
+$$\displaystyle\emptyset$$  
 
 数学符号
 
@@ -132,32 +133,24 @@ quad空格，符号：\quad，如：$x \quad y$
 右箭头，符号：\rightarrow，如：$\rightarrow$  
 右箭头，符号：\Rightarrow，如：$\Rightarrow$  
 底端对齐的省略号，符号：\ldots，如：$1,2,\ldots,n$  
-中线对齐的省略号，符号：\cdots，如：$x_1^2 + x_2^2 + \cdots + x_n^2$  
-竖直对齐的省略号，符号：\vdots，如：$\vdots$  
+中线对齐的省略号，符号：\cdots，如：
+$$x_1^2 + x_2^2 + \cdots + x_n^2$$  
+竖直对齐的省略号，符号：\vdots，如：
+$$ \displaystyle\vdots $$  
 斜对齐的省略号，符号：\ddots，如：$\ddots$  
 
-$$\alpha$$ 
-希腊字母
-|  letter  |  input   |  letter  |  input  |   letter   |  input   |  letter   |  input   |
-| :------: | :------: | :------: | :-----: | :--------: | :------: | :-------: | :------: |
-| $\Alpha$ | $\alpha$ |  \alpha  | $\Beta$ |   \Beta    | $\Gamma$ |  \Gamma   | $\gamma$ | \gamma |
-| $\Delta$ |  \Delta  | $\delta$ | \delta  | $\epsilon$ | \epsilon | $\Epsilon |
-Z 	Z 	ζ 	\zeta
-H 	H 	η 	\eta
-Θ 	\Theta 	θ 	\theta
-I 	I 	ι 	\iota
-K 	K 	κ 	\kappa
-Λ 	\Lambda 	λ 	\lambda
-M 	M 	μ 	\mu
-N 	N 	ν 	\nu
-Ξ 	\Xi 	ξ 	\xi
-O 	O 	ο 	\omicron
-Π 	\Pi 	π 	\pi
-P 	P 	ρ 	\rho
-Σ 	\Sigma 	σ 	\sigma
-T 	T 	τ 	\tau
-Υ 	\Upsilon 	υ 	\upsilon
-Φ 	\Phi 	ϕ 	\phi
-X 	X 	χ 	\chi
-Ψ 	\Psi 	ψ 	\psi
-Ω 	\v 	ω 	\omega
+希腊字母  
+|Upper|lower|Upper|lower|
+|:---:|:---:|:---:|:---:|
+|$\Alpha$|$\alpha$|$\Beta$|$\beta$|
+|$\Gamma$|$\gamma$|$\Delta$|$\delta$|
+|$\Epsilon$|$\epsilon$|$\Zeta$|$\zeta$|
+|$\Eta$|$\eta$|$\Theta$|$\theta$|
+|$\Iota$|$\iota$|$\Kappa$|$\kappa$|
+|$\Lambda$|$\lambda$|$\Mu$|$\mu$|
+|$\Nu$|$\nu$|$\Xi$|$\xi$|
+|$\Omicron$|$\omicron$|$\Pi$|$\pi$|
+|$\Rho$|$\rho$|$\Sigma$|$\sigma$|
+|$\Tau$|$\tau$|$\Upsilon$|$\upsilon$|
+|$\Phi$|$\phi$|$\Chi$|$\chi$|
+|$\Psi$|$\psi$|$\Omega$|$\omega$|  
